@@ -1,0 +1,63 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.background-image{
+
+
+    background-image:url('./empleados.jpeg');
+    background-repeat: no-repeat;
+    background-size: 450px 820px;
+    background-position: left center ;
+    height: 100vh;
+
+}
+
+
+@media (min-width:768px){
+
+
+.background-image{
+
+
+
+   background-size: cover;
+   background-position: center center ;
+   height: 100vh;
+
+
+}
+
+
+}
+
+
+.color-caja{
+
+    background-color: rgb(157, 216, 255);
+    box-shadow: rgb(141, 209, 255);
+    border-radius: 10px;
+
+
+}
+
+
+
+@media (max-width:540px){
+
+
+    
+.background-image{
+
+    background-size: 450px 820px;
+
+
+ 
+ }
+
+
+
+}

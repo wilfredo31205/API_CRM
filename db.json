@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "nombre": "Wilfredo",
+      "apellido": "Frias",
+      "direccion": "Calle 24 #3",
+      "email": "wilfredo839@gmail.com",
+      "telefono": 8295862553,
+      "comentario": "Empleado se encuentra de manera rebelde, favor de reportar a Recursos Humanos, para tratar a dicho empleado",
+      "id": 8
+    }
+  ]
+}
